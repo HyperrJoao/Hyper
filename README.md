@@ -1,2 +1,2 @@
-# Hyper
-Still learning some codes lol, goal is to be a scripter for games soon!
+Learning some codes!
+Goal is to be a game dev/scripter for games!
